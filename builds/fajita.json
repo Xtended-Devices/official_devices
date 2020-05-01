@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v8.0-fajita-OFFICIAL-20200501.zip",
-        "download": "https://sourceforge.net/projects/candy-potter/files/fajita/Xtended-XQ-v8.0-fajita-OFFICIAL-20200501.zip/download",
-        "timestamp": 1588322880,
-        "md5": "179e9202e511fd136175dd5d819d8a6f",
-        "size": 602325792,
-        "version": "v8.0",
-        "buildtype": "OFFICIAL",
+      "datetime":1588322880,
+      "filename": "Xtended-XQ-v8.0-fajita-OFFICIAL-20200501.zip",
+      "id": "179e9202e511fd136175dd5d819d8a6f",
+      "romtype": "OFFICIAL",
+      "size":602325792,
+      "url": "https://sourceforge.net/projects/candy-potter/files/fajita/Xtended-XQ-v8.0-fajita-OFFICIAL-20200501.zip/download",
+      "version": "XQ"
     }
   ]
-}
+} 
