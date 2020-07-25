@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v11-davinci-OFFICIAL-20200712.zip",
-        "download": "https://sourceforge.net/projects/xtended/files/davinci/Xtended-XQ-v11-davinci-OFFICIAL-20200712.zip/download",
-        "timestamp": 1594549938,
-        "md5": "329ce411a4806005d83271431b4b9668",
-        "size": 1223630860,
-        "version": "XQ-v11.0",
-        "buildtype": "OFFICIAL",
+        "filename": "Xtended-XQ-v11.5-davinci-OFFICIAL-20200725.zip",
+	      "url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/davinci\/Xtended-XQ-v11.5-davinci-OFFICIAL-20200725.zip\/download",
+        "datetime": 1595691177,
+        "id": "da9a41a76b5103db3adff6e8e79bb83e",
+        "size": 1223595901,
+        "version": "v11.5",
+        "romtype": "OFFICIAL"
     }
   ]
 }
