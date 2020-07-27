@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v11-z2_plus-OFFICIAL-20200714.zip",
-        "download": "https://sourceforge.net/projects/xtended/files/z2plus/Xtended-XQ-v11-z2_plus-OFFICIAL-20200714.zip/download",
-        "timestamp": 1594731094,
-        "md5": "b3b2f7762414b2b50b99d11adcef5d0d",
-        "size": 633610956,
-        "version": "XQ-v11.0",
-        "buildtype": "OFFICIAL",
+        "filename": "Xtended-XQ-v11.5-z2_plus-OFFICIAL-20200727.zip",
+        "url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/z2plus\/Xtended-XQ-v11.5-z2_plus-OFFICIAL-20200727.zip\/download",
+        "datetime": 1595828728,
+        "id": "2a82cf9834e7ff66c77395f56fa31df7",
+        "size": 642212377,
+        "version": "v11.5",
+        "romtype": "OFFICIAL",
     }
   ]
 }
