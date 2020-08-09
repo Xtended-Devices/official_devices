@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "datetime":1593090227,
-        "filename": "Xtended-XQ-v10.5-oneplus3-OFFICIAL-20200625.zip",
-        "id": "60fb5fd58a426171aa986e8351aae8bd",
-        "romtype": "OFFICIAL",
-        "size":662270857,
-        "url": "https://master.dl.sourceforge.net/projects/xtended/files/oneplus3/Xtended-XQ-v10.5-oneplus3-OFFICIAL-20200625.zip",
-        "version": "XQ-v10.5"
+        "filename": "Xtended-XQ-v12.0-oneplus3-OFFICIAL-20200809.zip",
+	"url": "https:\/\/downloads.msmxtended.org\/oneplus3\/Xtended-XQ-v12.0-oneplus3-OFFICIAL-20200809.zip",
+        "datetime": 1596968260,
+        "id": "2e75f266e328b3c58ece1aacb298b4fa",
+        "size": 667100831,
+        "version": "v12.0",
+        "romtype": "OFFICIAL"
     }
   ]
 }
