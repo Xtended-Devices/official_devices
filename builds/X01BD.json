@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v11.5-X01BD-OFFICIAL-20200725.zip",
-	"url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/X01BD\/Xtended-XQ-v11.5-X01BD-OFFICIAL-20200725.zip\/download",
-        "datetime": 1595669873,
-        "id": "7d962143ccb0825175b4d1a2719514b7",
-        "size": 759389878,
-        "version": "v11.5",
+        "filename": "Xtended-XQ-v12.0-X01BD-OFFICIAL-20200809.zip",
+	"url": "https:\/\/downloads.msmxtended.org\/X01BD\/Xtended-XQ-v12.0-X01BD-OFFICIAL-20200809.zip",
+        "datetime": 1596866464,
+        "id": "9fb2dd174bdd212e821d82e6fea500af",
+        "size": 758866254,
+        "version": "v12.0",
         "romtype": "OFFICIAL"
     }
   ]
