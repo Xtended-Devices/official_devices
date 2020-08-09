@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1595247000,
-			"filename": "Xtended-XQ-v11-beryllium-OFFICIAL-20200712.zip",
-			"id": "bbea51b1a44569c99e43d3ddfc050cd2",
+			"datetime": 1596979705,
+			"filename": "Xtended-XQ-v12.0-beryllium-OFFICIAL-20200809.zip",
+			"id": "b391987c4829fdb2b870cb72adabbdd7",
 			"romtype": "OFFICIAL",
-			"size": 861300326,
-			"url": "https:\/\/sourceforge.net\/projects\/rombuilds\/files\/MSM-Xtended\/Xtended-XQ-v11-beryllium-OFFICIAL-20200720.zip\/download",
-			"version": "XQ-v11.0"
+			"size": 821820693,
+			"url": "https:\/\/downloads.msmxtended.org\/beryllium\/Xtended-XQ-v12.0-beryllium-OFFICIAL-20200809.zip",
+			"version": "v12.0"
 		}
 	]
 }
