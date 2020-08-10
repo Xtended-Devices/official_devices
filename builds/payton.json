@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v11.5-payton-OFFICIAL-20200726.zip",
-	"url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/payton\/Xtended-XQ-v11.5-payton-OFFICIAL-20200726.zip\/download",
-        "datetime": 1595736943,
-        "id": "a928fadbdaacac9895daffa797cde62b",
-        "size": 729803989,
-        "version": "v11.5",
+        "filename": "Xtended-XQ-v12.0-payton-OFFICIAL-20200810.zip",
+	"url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/payton\/Xtended-XQ-v12.0-payton-OFFICIAL-20200810.zip\\/download",
+        "datetime": 1597029408,
+        "id": "8e080dabb37a993f141f8944e51ce1b1",
+        "size": 729766070,
+        "version": "v12",
         "romtype": "OFFICIAL"
     }
   ]
