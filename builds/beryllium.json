@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1596979705,
-			"filename": "Xtended-XQ-v12.0-beryllium-OFFICIAL-20200809.zip",
-			"id": "b391987c4829fdb2b870cb72adabbdd7",
+			"datetime": 1598193034,
+			"filename": "Xtended-XQ-v12.5-beryllium-OFFICIAL-20200823.zip",
+			"id": "6c0150f9a82102a25b9103b8be32b55f",
 			"romtype": "OFFICIAL",
-			"size": 821820693,
-			"url": "https:\/\/downloads.msmxtended.org\/beryllium\/Xtended-XQ-v12.0-beryllium-OFFICIAL-20200809.zip",
-			"version": "v12.0"
+			"size": 821814197,
+			"url": "https:\/\/downloads.msmxtended.org\/beryllium\/Xtended-XQ-v12.5-beryllium-OFFICIAL-20200823.zip",
+			"version": "v12.5"
 		}
 	]
 }
