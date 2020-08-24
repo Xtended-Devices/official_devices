@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-X00T-OFFICIAL-20200811.zip",
-        "url": "https:\/\/downloads.msmxtended.org\/X00T\/Xtended-XQ-v12.0-X00T-OFFICIAL-20200811.zip",
-        "datetime": 1597143597,
-        "id": "fa1bfb3b6b12abaca016dc568fcc7dfb",
-        "size": 699424213,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-X00T-OFFICIAL-20200824.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/X00T\/Xtended-XQ-v12.5-X00T-OFFICIAL-20200824.zip",
+        "datetime": 1598189483,
+        "id": "6da29dd668432d34e5e44c9b177c5d93",
+        "size": 703110400,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
