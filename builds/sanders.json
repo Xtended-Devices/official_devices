@@ -1,13 +1,13 @@
 {
-	"response": [
-		{
-			"datetime": 1595744894,
-			"filename": "Xtended-XQ-v11.5-sanders-OFFICIAL-20200726.zip",
-			"id": "1368470ca6ab90075a9b1fb398fac997",
-			"romtype": "OFFICIAL",
-			"size": 691011584,
-			"url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/sanders\/Xtended-XQ-v11.5-sanders-OFFICIAL-20200726.zip\/download",
-			"version": "XQ-v11.5"
-		}
-	]
-} 
+  "response": [
+    {
+        "filename": "Xtended-XQ-v12.5-sanders-OFFICIAL-20200824.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/sanders\/Xtended-XQ-v12.5-sanders-OFFICIAL-20200824.zip",
+        "datetime": 1598283097,
+        "id": "81acdf5db264140661b1aa280281342e",
+        "size": 662339598,
+        "version": "v12.5",
+        "romtype": "OFFICIAL"
+    }
+  ]
+}
