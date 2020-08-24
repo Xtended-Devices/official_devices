@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-lavender-OFFICIAL-20200809.zip",
-	"url": "https:\/\/downloads.msmxtended.org\/lavender\/Xtended-XQ-v12.0-lavender-OFFICIAL-20200809.zip",
-        "datetime": 1596979549,
-        "id": "355007006decbe3fe12373471a5c4c28",
-        "size": 840353211,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-lavender-OFFICIAL-20200824.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/lavender\/Xtended-XQ-v12.5-lavender-OFFICIAL-20200824.zip",
+        "datetime": 1598241014,
+        "id": "aedc2e202f189be83a86de18b37b21b9",
+        "size": 871386163,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
