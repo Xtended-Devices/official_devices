@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-z2_plus-OFFICIAL-20200812.zip",
-        "url": "https:\/\/downloads.msmxtended.org\/z2_plus\/Xtended-XQ-v12.0-z2_plus-OFFICIAL-20200812.zip",
-        "datetime": 1597223483,
-        "id": "c8ce9f657cd06996ac181fd7eb5ed055",
-        "size": 644950884,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-z2_plus-OFFICIAL-20200823.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/z2_plus\/Xtended-XQ-v12.5-z2_plus-OFFICIAL-20200823.zip",
+        "datetime": 1598192420,
+        "id": "6ff38eec1e0c6392451216f46aaefbbb",
+        "size": 645272638,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
