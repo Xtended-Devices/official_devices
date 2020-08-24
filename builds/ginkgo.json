@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-ginkgo-OFFICIAL-20200811.zip",
-        "url": "https:\/\/downloads.msmxtended.org\/ginkgo\/Xtended-XQ-v12.0-ginkgo-OFFICIAL-20200811.zip",
-        "datetime": 1597127398,
-        "id": "c0b9b776060c56b5bd71ad87c313f1b8",
-        "size": 873588534,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-ginkgo-OFFICIAL-20200824.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/ginkgo\/Xtended-XQ-v12.5-ginkgo-OFFICIAL-20200824.zip",
+        "datetime": 1598268117,
+        "id": "760dc22303c44a7f15060e5c069aaa4e",
+        "size": 870970838,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
