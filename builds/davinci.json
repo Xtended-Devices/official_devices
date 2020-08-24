@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-davinci-OFFICIAL-20200811.zip",
-        "url": "https:\/\/downloads.msmxtended.org\/davinci\/Xtended-XQ-v12.0-davinci-OFFICIAL-20200811.zip",
-        "datetime": 1597152935,
-        "id": "ea27f0c5d8a378fd0345b038755b4508",
-        "size": 1225945274,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-davinci-OFFICIAL-20200824.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/davinci\/Xtended-XQ-v12.5-davinci-OFFICIAL-20200824.zip",
+        "datetime": 1598275694,
+        "id": "06b120f0666dea4bacc671e1901f2809",
+        "size": 1229145084,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
