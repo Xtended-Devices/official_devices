@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-daisy-OFFICIAL-20200811.zip",
-        "url": "https:\/\/downloads.msmxtended.org\/daisy\/Xtended-XQ-v12.0-daisy-OFFICIAL-20200811.zip",
-        "datetime": 1597118910,
-        "id": "19c3a2c3109c76ab5aaef2010c57eb0e",
-        "size": 687900417,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-daisy-OFFICIAL-20200825.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/daisy\/Xtended-XQ-v12.5-daisy-OFFICIAL-20200825.zip",
+        "datetime": 1598366928,
+        "id": "38743a30f146cb9030b888f7117d971f",
+        "size": 688190672,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
