@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-payton-OFFICIAL-20200810.zip",
-	"url": "https:\/\/downloads.msmxtended.org\/payton\/Xtended-XQ-v12.0-payton-OFFICIAL-20200810.zip",
-        "datetime": 1597029408,
-        "id": "8e080dabb37a993f141f8944e51ce1b1",
-        "size": 729766070,
-        "version": "v12",
+        "filename": "Xtended-XQ-v12.5-payton-OFFICIAL-20200825.zip",
+	"url": "https:\/\/downloads.msmxtended.org\/payton\/Xtended-XQ-v12.5-payton-OFFICIAL-20200825.zip",
+        "datetime": 1598378301,
+        "id": "9f2aa97756129d8f4fd411976a0a4f94",
+        "size": 730220050,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
