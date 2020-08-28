@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "Xtended-XQ-v12.0-whyred-OFFICIAL-20200810.zip",
-	"url": "https:\/\/downloads.msmxtended.org\/whyred\/Xtended-XQ-v12.0-whyred-OFFICIAL-20200810.zip",
-        "datetime": 1597008169,
-        "id": "48d816fcda9964de0c715699119c5dc3",
-        "size": 727564777,
-        "version": "v12.0",
+        "filename": "Xtended-XQ-v12.5-whyred-OFFICIAL-20200828.zip",
+        "url": "https:\/\/downloads.msmxtended.org\/whyred\/Xtended-XQ-v12.5-whyred-OFFICIAL-20200828.zip",
+        "datetime": 1598610285,
+        "id": "2fc0d273738eb0d5553016208d4cb70a",
+        "size": 700507319,
+        "version": "v12.5",
         "romtype": "OFFICIAL"
     }
   ]
