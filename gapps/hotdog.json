@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1624447497,
-			"filename": "Xtended-XR-v7.0-GAPPS-hotdog-OFFICIAL-20210623.zip",
-			"id": "d5a6fafa8f1e836e18deec613deff020",
+			"datetime": 1625896884,
+			"filename": "Xtended-XR-v8.0-GAPPS-hotdog-OFFICIAL-20210710.zip",
+			"id": "dd33ee37ca9c876693929479f8a532bc",
 			"romtype": "OFFICIAL",
-			"size": 1181534291,
-			"url": "https:\/\/downloads.msmxtended.org\/hotdog\/Xtended-XR-v7.0-GAPPS-hotdog-OFFICIAL-20210623.zip",
-			"version": "v7.0"
+			"size": 1362847427,
+			"url": "https:\/\/downloads.msmxtended.org\/hotdog\/Xtended-XR-v8.0-GAPPS-hotdog-OFFICIAL-20210710.zip",
+			"version": "v8.0"
 		}
 	]
 }
