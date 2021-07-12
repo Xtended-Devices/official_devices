@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1624532471,
-			"filename": "Xtended-XR-v7.0-VANILLA-beryllium-OFFICIAL-20210624.zip",
-			"id": "a5b9136619a0913d65bb1c7c19c02964",
+			"datetime": 1626019822,
+			"filename": "Xtended-XR-v8.0-VANILLA-beryllium-OFFICIAL-20210711.zip",
+			"id": "673392864a5514b8326f969354b7e11d",
 			"romtype": "OFFICIAL",
-			"size": 913812976,
-			"url": "https:\/\/downloads.msmxtended.org\/beryllium\/Xtended-XR-v7.0-VANILLA-beryllium-OFFICIAL-20210624.zip",
-			"version": "v7.0"
+			"size": 913757646,
+			"url": "https:\/\/downloads.msmxtended.org\/beryllium\/Xtended-XR-v8.0-VANILLA-beryllium-OFFICIAL-20210711.zip",
+			"version": "v8.0"
 		}
 	]
 }
