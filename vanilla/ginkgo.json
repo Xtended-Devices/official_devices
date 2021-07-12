@@ -1,13 +1,13 @@
 {
         "response": [
                 {
-                        "datetime": 1624448314,
-                        "filename": "Xtended-XR-v7.0-VANILLA-ginkgo-OFFICIAL-20210623.zip",
-                        "id": "9f9f7661b57a5c71eb835c31fb86a20d",
+                        "datetime": 1626074604,
+                        "filename": "Xtended-XR-v8.0-VANILLA-ginkgo-OFFICIAL-20210712.zip",
+                        "id": "b37cc73f49be9fc6307c5aabca49560d",
                         "romtype": "OFFICIAL",
-                        "size": 928517424,
-                        "url": "https:\/\/downloads.msmxtended.org\/ginkgo\/Xtended-XR-v7.0-VANILLA-ginkgo-OFFICIAL-20210623.zip",
-                        "version": "v7.0"
+                        "size": 928918935,
+                        "url": "https:\/\/downloads.msmxtended.org\/ginkgo\/Xtended-XR-v8.0-VANILLA-ginkgo-OFFICIAL-20210712.zip",
+                        "version": "v8.0"
                 }
         ]
 }
