@@ -1,13 +1,13 @@
 {
         "response": [
                 {
-                        "datetime": 1626077577,
-                        "filename": "Xtended-XR-v8.0-GAPPS-ginkgo-OFFICIAL-20210712.zip",
-                        "id": "54b22b92ccf761ff1383bdc0a87a385d",
+                        "datetime": 1628355733,
+                        "filename": "Xtended-XR-v9.0-GAPPS-ginkgo-OFFICIAL-20210807.zip",
+                        "id": "5c4c44fa02b6dc7fd29c42fad3c846c0",
                         "romtype": "OFFICIAL",
-                        "size": 1138916105,
-                        "url": "https:\/\/downloads.msmxtended.org\/ginkgo\/Xtended-XR-v8.0-GAPPS-ginkgo-OFFICIAL-20210712.zip",
-                        "version": "v8.0"
+                        "size": 1145259210,
+                        "url": "https:\/\/downloads.project-xtended.org\/ginkgo\/Xtended-XR-v9.0-GAPPS-ginkgo-OFFICIAL-20210807.zip",
+                        "version": "v9.0"
                 }
         ]
 }
