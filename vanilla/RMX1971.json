@@ -1,13 +1,13 @@
 {
         "response": [
                 {
-                        "datetime": 1628397648,
-                        "filename": "Xtended-XR-v9.0-VANILLA-RMX1971-OFFICIAL-20210808.zip",
-                        "id": "b32506d8cc72d92add825c00b04e4cb1",
+                        "datetime": 1631344394,
+                        "filename": "Xtended-XR-vX.0-VANILLA-RMX1971-OFFICIAL-20210911.zip",
+                        "id": "1511abd52ca9336dfa4f30e11cdb05bf",
                         "romtype": "OFFICIAL",
-                        "size": 1039924496,
-                        "url": "https:\/\/downloads.project-xtended.org\/RMX1971\/Xtended-XR-v9.0-VANILLA-RMX1971-OFFICIAL-20210808.zip",
-                        "version": "v9.0"
+                        "size": 1048952506,
+                        "url": "https:\/\/downloads.project-xtended.org\/RMX1971\/Xtended-XR-vX.0-VANILLA-RMX1971-OFFICIAL-20210911.zip",
+                        "version": "vX.0"
                 }
         ]
 }
