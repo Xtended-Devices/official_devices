@@ -1,14 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1628402988,
-			"filename": "Xtended-XR-v9.0-VANILLA-payton-OFFICIAL-20210808.zip",
-			"id": "4d676f5a0354ae7e9de476e9abdd0b04",
+			"datetime": 1631366388,
+			"filename": "Xtended-XR-vX.0-VANILLA-payton-OFFICIAL-20210911.zip",
+			"id": "9398be4d84b7b00323d970a3166e4ad4",
 			"romtype": "OFFICIAL",
-			"size": 750274001,
-			"url": "https:\/\/downloads.project-xtended.org\/payton\/Xtended-XR-v9.0-VANILLA-payton-OFFICIAL-20210808.zip",
-			"version": "v9.0"
+			"size": 757520477,
+			"url": "https:\/\/downloads.project-xtended.org\/payton\/Xtended-XR-vX.0-VANILLA-payton-OFFICIAL-20210911.zip",
+			"version": "vX.0"
 		}
 	]
 }
-

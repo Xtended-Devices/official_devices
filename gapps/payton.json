@@ -1,14 +1,13 @@
 {
-	"response": [
-		{
-			"datetime": 1628417203,
-			"filename": "Xtended-XR-v9.0-GAPPS-payton-OFFICIAL-20210808.zip",
-			"id": "ca07256fa81b3f5b2cfc6ac2370f5385",
-			"romtype": "OFFICIAL",
-			"size": 972496173,
-			"url": "https:\/\/downloads.project-xtended.org\/payton\/Xtended-XR-v9.0-GAPPS-payton-OFFICIAL-20210808.zip",
-			"version": "v9.0"
-		}
-	]
+        "response": [
+                {
+                        "datetime": 1628417203,
+                        "filename": "Xtended-XR-v9.0-GAPPS-payton-OFFICIAL-20210808.zip",
+                        "id": "ca07256fa81b3f5b2cfc6ac2370f5385",
+                        "romtype": "OFFICIAL",
+                        "size": 972496173,
+                        "url": "https:\/\/downloads.project-xtended.org\/payton\/Xtended-XR-v9.0-GA$
+                        "version": "v9.0"
+                }
+        ]
 }
-
