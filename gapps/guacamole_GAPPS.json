@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1628616054,
-			"filename": "Xtended-XR-v9.0-GAPPS-guacamole-OFFICIAL-20210810.zip",
-			"id": "e3ac9de9fa60ac474112cd461635febd",
+			"datetime": 1631344206,
+			"filename": "Xtended-XR-vX.0-GAPPS-guacamole-OFFICIAL-20210911.zip",
+			"id": "35903cb0a3504cc22e889959eaff56c3",
 			"romtype": "OFFICIAL",
-			"size": 1270171185,
-			"url": "https:\/\/downloads.project-xtended.org\/guacamole\/Xtended-XR-v9.0-GAPPS-guacamole-OFFICIAL-20210810.zip",
-			"version": "v9.0"
+			"size": 1283956701,
+			"url": "https:\/\/downloads.project-xtended.org\/guacamole\/Xtended-XR-vX.0-GAPPS-guacamole-OFFICIAL-20210911.zip",
+			"version": "vX.0"
 		}
 	]
 }
