@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1628349527,
-			"filename": "Xtended-XR-v9.0-VANILLA-zippo-OFFICIAL-20210807.zip",
-			"id": "a8d7cc5c96dac19abce3d64820e4cc72",
+			"datetime": 1631288622,
+			"filename": "Xtended-XR-vX.0-VANILLA-zippo-OFFICIAL-20210910.zip",
+			"id": "06d8a5d29e631e34f8359f1eb9c03ab8",
 			"romtype": "OFFICIAL",
-			"size": 947267432,
-			"url": "https:\/\/downloads.project-xtended.org\/zippo\/Xtended-XR-v9.0-VANILLA-zippo-OFFICIAL-20210807.zip",
-			"version": "v9.0"
+			"size": 956974773,
+			"url": "https:\/\/downloads.project-xtended.org\/zippo\/Xtended-XR-vX.0-VANILLA-zippo-OFFICIAL-20210910.zip",
+			"version": "vX.0"
 		}
 	]
 }
