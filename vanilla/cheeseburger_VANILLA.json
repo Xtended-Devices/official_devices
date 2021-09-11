@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1628366173,
-			"filename": "Xtended-XR-v9.0-VANILLA-cheeseburger-OFFICIAL-20210807.zip",
-			"id": "3f06fb08083a79433b7cc581b3a2b017",
+			"datetime": 1631348031,
+			"filename": "Xtended-XR-vX.0-VANILLA-cheeseburger-OFFICIAL-20210911.zip",
+			"id": "665d76675e1b16732c97e35e28b544f5",
 			"romtype": "OFFICIAL",
-			"size": 869279689,
-			"url": "https:\/\/downloads.project-xtended.org\/cheeseburger\/Xtended-XR-v9.0-VANILLA-cheeseburger-OFFICIAL-20210807.zip",
-			"version": "v9.0"
+			"size": 891720092,
+			"url": "https:\/\/downloads.project-xtended.org\/cheeseburger\/Xtended-XR-vX.0-VANILLA-cheeseburger-OFFICIAL-20210911.zip",
+			"version": "vX.0"
 		}
 	]
 }
