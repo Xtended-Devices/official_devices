@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1631353802,
-			"filename": "Xtended-XR-vX.0-VANILLA-dumpling-OFFICIAL-20210911.zip",
-			"id": "3a022201153bc11c77720378eacbcd99",
+			"datetime": 1633634568,
+			"filename": "Xtended-XR-vX.r-VANILLA-dumpling-OFFICIAL-20211007.zip",
+			"id": "52a9a1cb1d4ae61d16212c7b8c03aa5a",
 			"romtype": "OFFICIAL",
-			"size": 891966802,
-			"url": "https:\/\/downloads.project-xtended.org\/dumpling\/Xtended-XR-vX.0-VANILLA-dumpling-OFFICIAL-20210911.zip",
-			"version": "vX.0"
+			"size": 901735981,
+			"url": "https:\/\/downloads.project-xtended.org\/dumpling\/Xtended-XR-vX.r-VANILLA-dumpling-OFFICIAL-20211007.zip",
+			"version": "vX.r"
 		}
 	]
 }
