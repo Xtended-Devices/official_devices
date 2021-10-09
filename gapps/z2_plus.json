@@ -1,13 +1,13 @@
 {
         "response": [
                 {
-                        "datetime": 1631361588,
-                        "filename": "Xtended-XR-vX.0-GAPPS-z2_plus-OFFICIAL-20210911.zip",
-                        "id": "48033f991ec87e8b2fc0e23de0bbf5d5",
+                        "datetime": 1633781792,
+                        "filename": "Xtended-XR-vX.r-GAPPS-z2_plus-OFFICIAL-20211009.zip",
+                        "id": "f2e8bbc46c308549027a95eddc762f34",
                         "romtype": "OFFICIAL",
-                        "size": 949081637,
-                        "url": "https:\/\/downloads.project-xtended.org\/z2_plus\/Xtended-XR-vX.0-GAPPS-z2_plus-OFFICIAL-20210911.zip",
-                        "version": "vX.0"
+                        "size": 961479282,
+                        "url": "https:\/\/downloads.project-xtended.org\/z2_plus\/Xtended-XR-vX.r-GAPPS-z2_plus-OFFICIAL-20211009.zip",
+                        "version": "vX.r"
                 }
         ]
 }

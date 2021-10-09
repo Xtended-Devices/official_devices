@@ -1,13 +1,13 @@
 {
         "response": [
                 {
-                        "datetime": 1631344827,
-                        "filename": "Xtended-XR-vX.0-VANILLA-z2_plus-OFFICIAL-20210911.zip",
-                        "id": "cf17e7930da1f7c7fd11c688e3901fc2",
+                        "datetime": 1633783301,
+                        "filename": "Xtended-XR-vX.r-VANILLA-z2_plus-OFFICIAL-20211009.zip",
+                        "id": "dc7b2e5109e63749a35a0b6d934d804d",
                         "romtype": "OFFICIAL",
-                        "size": 739700234,
-                        "url": "https:\/\/downloads.project-xtended.org\/z2_plus\/Xtended-XR-vX.0-VANILLA-z2_plus-OFFICIAL-20210911.zip",
-                        "version": "vX.0"
+                        "size": 752132963,
+                        "url": "https:\/\/downloads.project-xtended.org\/z2_plus\/Xtended-XR-vX.r-VANILLA-z2_plus-OFFICIAL-20211009.zip",
+                        "version": "vX.r"
                 }
         ]
 }
