@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1631345727,
-			"filename": "Xtended-XR-vX.0-GAPPS-miatoll-OFFICIAL-20210911.zip",
-			"id": "d2125dea86a93db3f90a1b8e0c5532ff",
+			"datetime": 1636354690,
+			"filename": "Xtended-XR-vX.r-GAPPS-miatoll-OFFICIAL-20211108.zip",
+			"id": "3eb30b7656ee9564184c2891ea1566e3",
 			"romtype": "OFFICIAL",
-			"size": 1736494588,
-			"url": "https:\/\/downloads.project-xtended.org\/miatoll\/Xtended-XR-vX.0-GAPPS-miatoll-OFFICIAL-20210911.zip",
-			"version": "vX.0"
+			"size": 1636035151,
+			"url": "https:\/\/downloads.project-xtended.org\/miatoll\/Xtended-XR-vX.r-GAPPS-miatoll-OFFICIAL-20211108.zip",
+			"version": "vX.r"
 		}
 	]
 }
